@@ -1,0 +1,50 @@
+.heading{
+    background-color: rgb(141, 53, 53);
+    color: white;
+    text-align: center;
+}
+.asterik{
+    color: crimson;
+}
+.bold{
+    font-weight: bold;
+}
+.italics{
+    font-style: italic;
+}
+.main{
+    border: 1px solid black;
+    background-color: rgb(246, 248, 228);
+}
+.prime{
+    width: 100%;
+    border-spacing: 0px;
+    border: 1px solid black;
+}
+.condition{
+    color: blue;
+}
+.condition1{
+    font-style: italic;
+}
+.condition2{
+    font-weight: bold;
+    text-decoration: underline;
+}
+.c3{
+    color: rgb(0, 0, 224);
+    font-weight: bold;
+}
+.tab2{
+    margin-left: 5%;
+}
+.tab5{
+    margin-left: 2%;
+}
+td {
+	border-spacing: 0px;
+	border: solid 1px black;
+}
+.tab10p{
+    margin-left: 20%;
+}
